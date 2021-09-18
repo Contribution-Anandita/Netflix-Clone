@@ -1,4 +1,4 @@
-# This application is built using React Js and imitates the UI of Netflix.
+# This application is built using React Js. It imitates and Enhances the UI of Netflix.
 
 # Getting Started with Create React App
 
